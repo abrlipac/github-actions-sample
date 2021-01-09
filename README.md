@@ -1,0 +1,1 @@
+1. Primer ``git pull`` para ejecutar los trabajos
